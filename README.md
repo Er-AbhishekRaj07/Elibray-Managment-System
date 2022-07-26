@@ -1,2 +1,14 @@
-# Elibray-Managment-System
-In this project, i have develop the Profile module for User ,Admin for the elibrary web application in ASP.NET with C Sharp programming and MSSQL DB.This module gives ability to registered members to update their personal details like name, address, contact etc.and Admin to update and issue the aurthorised books from the system.
+# E-Library Management System
+This is a mock E-Library management based Web Project. <strong>Entity framework</strong> was used for database management.
+<p>
+<strong>Topics covered:</strong>
+<ul>
+  <li>ASP.NET WebForms based application</li>
+  <li>SQL Server</li>
+  <li>Entity Framework</li>
+  <li>Bootstrap</li>
+</ul>
+</p>
+Change <strong>connectionStrings</strong> xml in <strong>Web.config</strong> file and connect to your own database before using it.
+<p><strong><br/>Practice</strong></p>
+
